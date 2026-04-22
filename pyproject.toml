@@ -1,0 +1,19 @@
+[project]
+name = "ds-in-prod"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "joblib==1.5.3",
+    "numpy==1.26.4",
+    "pandas==2.3.3",
+    "python-dateutil==2.9.0.post0",
+    "pytz==2026.1.post1",
+    "scikit-learn==1.8.0",
+    "scipy==1.17.1",
+    "six==1.17.0",
+    "sparselsh==2.2.0",
+    "threadpoolctl==3.6.0",
+    "tzdata==2026.1",
+]
