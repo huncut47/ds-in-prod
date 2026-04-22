@@ -4,6 +4,6 @@
 
 ## Structure
 
-- information retrieval exercises are located in `./infret`
-- recommender systems exercises are located in `./recsys`
-- devops exercises are located in `./devops`
+- information retrieval exercises are located in `infret`
+- recommender systems exercises are located in `recsys`
+- devops exercises are located in `devops`
